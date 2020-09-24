@@ -1,0 +1,3 @@
+[submodule "rust/src"]
+	path = rust/src
+	url = git@gist.github.com:80cd18c8c32977d15fba768097d66955.git
